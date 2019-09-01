@@ -1,0 +1,21 @@
+{
+  "name": "sec-adminer",
+  "version": "1.0.0",
+  "description": "secure adminer(gui database manager specially MySQL)",
+  "main": "server.js",
+  "directories": {ls "scripts"
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "https": "^1.0.0",
+    "node-php": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aghae",
+  "license": "ISC"
+}
