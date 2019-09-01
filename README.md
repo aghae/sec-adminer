@@ -11,7 +11,7 @@ $ npm start
 
 ```
 
-it run on port 8443 by default .for changing port for example 8000
+It run on port 8443 by default .you can change  port like this :
 ```
 $ port=8000 npm start
 ```
