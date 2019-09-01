@@ -1,5 +1,5 @@
 # Secure Adminer 
-#### Nodejs Secure Wrapper for Adminer.php (GUI database Manager Specialy MySQL)
+#### Nodejs Secure Wrapper for php Adminer (GUI database Manager Specialy MySQL)
 
 **Install**
 
