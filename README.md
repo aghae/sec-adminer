@@ -11,12 +11,12 @@ $ npm start
 
 ```
 
-It run on port 8443 by default .you can change  port like this :
+It run on port 8443 by default .you can change port like this :
 ```
 $ port=8000 npm start
 ```
 
-by default it uses default certificate in ssl folder but 
+by default it uses certificate in ssl folder but 
 you can generate your certifficate :
 ```
  $ ./keygen.sh
