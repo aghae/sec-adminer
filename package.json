@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "secure adminer(gui database manager specially MySQL)",
   "main": "server.js",
-  "directories": {ls "scripts"
+  "directories": {
     "lib": "lib"
   },
   "dependencies": {

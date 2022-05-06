@@ -1,11 +1,10 @@
 
-var express = require('express');
-var https = require('https');
-var path = require("path"); 
-var fs = require("fs"); 
-var php = require("node-php"); 
-var path = require("path"); 
-var app = express();
+const express = require('express');
+const https = require('https');
+const path = require("path"); 
+const fs = require("fs"); 
+const php = require("node-php"); 
+const app = express();
 
 
 var options = {
