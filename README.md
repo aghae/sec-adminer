@@ -1,7 +1,7 @@
 # Secure Adminer 
 #### Nodejs Secure Wrapper for php Adminer (GUI database Manager Specialy MySQL)
 
-**Install**
+**Install:**
 
 ```
 Extract & cd to extracted folder
@@ -23,16 +23,18 @@ you can generate your certifficate :
  $ npm run
 ```
 
-for Enable login for password-less databases like sqlite got miner/config.php and change  $config_login_password_less value:
+**Config:**
+
+to enable login for password-less databases like sqlite goto miner/config.php and change  $config_login_password_less value:
 ```
 <?php
 $CONFIG_LOGIN_PASSWORD_LESS ='123qwe'
 
 ```
 
-for enable otp (one time password) in miner/config.php:
+to enable otp (one time password) login  in miner/config.php:
 ```
-$CONFIG_OTP = array(
+$CONFIG_LOGIN_OTP = array(
     "enable"        => true , 
     "secret_code"   => "3ekrEtKii"
     /*

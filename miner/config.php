@@ -4,7 +4,7 @@ $CONFIG_THEME = 'konya';
 //Enable login for password-less database like sqlite
 $CONFIG_LOGIN_PASSWORD_LESS = '123qwe';
 
-$CONFIG_OTP = array(
+$CONFIG_LOGIN_OTP = array(
     "enable"    => false , 
     "secret_code"=>"3ekrEtKii"
     /*
