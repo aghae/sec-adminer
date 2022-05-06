@@ -20,7 +20,7 @@ by default it uses certificate in ssl folder but
 you can generate your certifficate :
 ```
  $ ./keygen.sh
- $ npm run
+ $ npm start
 ```
 
 **Config:**
