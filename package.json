@@ -1,6 +1,6 @@
 {
   "name": "sec-adminer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "secure adminer(gui database manager specially MySQL)",
   "main": "server.js",
   "directories": {

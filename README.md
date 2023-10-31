@@ -4,8 +4,8 @@
 **Install:**
 
 ```
-Extract & cd to extracted folder
-$ sudo apt-get install php-cgi
+Extract & cd to extracted folder 
+
 $ npm install
 $ npm start
 
